@@ -1,0 +1,110 @@
+﻿<style>
+    .pagebutton {
+        margin-right: 5px;
+    }
+
+
+    .lab {
+        width: 70px;
+    }
+
+    .lab2 {
+        width: 140px;
+    }
+
+    .form-group {
+        margin-bottom: 0px;
+    }
+
+    .validationtext {
+        color: red;
+        font-size: 11px;
+    }
+</style>
+<!--...... Page Loader...................................-->
+
+<!--.............................................-->
+
+<div class="row wrapper border-bottom white-bg page-heading">
+    <div class="col-lg-10">
+        <h2>My Events</h2>
+        <ol class="breadcrumb">
+            <li>
+                <a href="index.html">Home</a>
+            </li>
+            <li class="active">
+                <strong>Add Event</strong>
+            </li>
+        </ol>
+    </div>
+
+    <div class="col-lg-2">
+
+    </div>
+</div>
+<div class="row" ng-controller="addEventsController">
+    <div class="col-lg-12">
+        <div class="ibox float-e-margins">
+            <div class="ibox-title">
+                <h5>
+                    Add New Event
+                </h5>
+                <div ibox-tools></div>
+            </div>
+            <div class="ibox-content">
+                <form ng-submit="addEvents(event)" class="form-horizontal">
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label">Event Name</label>
+                        <div class="col-sm-10">
+                            <input type="text" class="form-control" ng-model="event.name" required="">
+                        </div>
+                    </div>
+                    <div class="hr-line-dashed"></div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label">Start Date</label>
+                        <div class="col-sm-10">
+                            <input type="text" class="form-control" ng-model="event.startDate">
+                        </div>
+                    </div>
+                    <div class="hr-line-dashed"></div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label">End Date</label>
+                        <div class="col-sm-10">
+                            <input type="text" class="form-control" ng-model="event.endDate">
+                        </div>
+                    </div>
+                    <div class="hr-line-dashed"></div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label">Location</label>
+                        <div class="col-sm-10">
+                            <input type="text" class="form-control" ng-model="event.location" required="">
+                        </div>
+                    </div>
+                    <div class="hr-line-dashed"></div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label">Description</label>
+                        <div class="col-sm-10">
+                            <input type="text" class="form-control" ng-model="event.description">
+                        </div>
+                    </div>
+                    <div class="hr-line-dashed"></div>
+                    <div class="form-group">
+                        <label class="col-sm-4 control-label">You want to publish ? </label>
+
+                        <div class="col-sm-8">
+                            <div><label class="col-sm-4"> <input type="radio" ng-model="event.publish" ng-value="true" id="optionsRadios1" name="optionsRadios">Yes</label>
+                            <label class="col-sm-4"> <input type="radio" checked="" ng-model="event.publish" ng-value="false" id="optionsRadios2" name="optionsRadios">No</label></div>
+                        </div>
+                    </div>
+                    <div class="hr-line-dashed"></div>
+                    <div class="form-group">
+                        <div class="col-sm-4 col-sm-offset-2">
+                            <button class="btn btn-white" type="button" ng-click="cancel()">Cancel</button>
+                            <button type="submit" class="btn btn-primary">Save Event</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

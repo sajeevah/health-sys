@@ -1,0 +1,33 @@
+{
+  "name": "health-app",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "bcrypt": "^1.0.2",
+    "body-parser": "~1.17.1",
+    "chai": "^4.1.0",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.3",
+    "express": "~4.15.2",
+    "jade": "~1.11.0",
+    "jwt-simple": "^0.5.1",
+    "mocha": "^3.4.2",
+    "mongodb": "^2.2.25",
+    "mongoose": "^4.9.5",
+    "mongoose-geojson-schema": "^2.1.2",
+    "morgan": "~1.8.1",
+    "passport": "^0.3.2",
+    "passport-jwt": "^2.2.1",
+    "serve-favicon": "~2.4.2",
+    "should": "^11.2.1",
+    "supertest": "^3.0.0"
+  },
+  "main": "app.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

@@ -1,0 +1,32 @@
+<style>
+
+    .widget-clock .time {
+        font-family: 'Syncopate',sans-serif;
+        font-size: 1.5em;
+        margin: 0;
+    }
+
+</style>
+
+<div class="row border-bottom">
+    <nav class="navbar navbar-static-top" role="navigation" style="margin-bottom: 0">
+
+        <div class="navbar-header">
+            <span minimaliza-sidebar></span>
+        </div>
+
+        <ul class="nav navbar-top-links navbar-right" ng-controller="userCtrl">
+            <li>
+                {{userDetails.name}}
+            </li>
+            <li>
+                <a ng-click="logout()">
+                    <i class="fa fa-sign-out"></i> Log out
+                </a>
+            </li>
+            <li>
+            </li>
+        </ul>
+
+    </nav>
+</div>

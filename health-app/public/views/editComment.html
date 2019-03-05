@@ -1,0 +1,74 @@
+﻿<style>
+    .pagebutton {
+        margin-right: 5px;
+    }
+
+
+    .lab {
+        width: 70px;
+    }
+
+    .lab2 {
+        width: 140px;
+    }
+
+    .form-group {
+        margin-bottom: 0px;
+    }
+
+    .validationtext {
+        color: red;
+        font-size: 11px;
+    }
+</style>
+<!--...... Page Loader...................................-->
+
+<!--.............................................-->
+
+<div class="row wrapper border-bottom white-bg page-heading">
+    <div class="col-lg-10">
+        <h2>Publish Events</h2>
+        <ol class="breadcrumb">
+            <li>
+                <a href="index.html">Home</a>
+            </li>
+            <li class="active">
+                <strong>Edit Comment</strong>
+            </li>
+        </ol>
+    </div>
+
+    <div class="col-lg-2">
+
+    </div>
+</div>
+<div class="row" ng-controller="editCommentsController">
+    <div class="col-lg-12">
+        <div class="ibox float-e-margins">
+            <div class="ibox-title">
+                <h5>
+                    Edit Comment
+                </h5>
+                <div ibox-tools></div>
+            </div>
+            <div class="ibox-content">
+                <form ng-submit="editComment(comment)" class="form-horizontal">
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label">Comment</label>
+                        <div class="col-sm-10">
+                            <textarea class="form-control" ng-model="comment.text" required="">
+                            </textarea>
+                        </div>
+                    </div>
+                    <div class="hr-line-dashed"></div>
+                    <div class="form-group">
+                        <div class="col-sm-4 col-sm-offset-2">
+                            <button class="btn btn-white" type="button" ng-click="cancel()">Cancel</button>
+                            <button type="submit" class="btn btn-primary">Edit Comment</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

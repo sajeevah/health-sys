@@ -1,0 +1,126 @@
+c:\users\sooraj.jayathilake\documents\visual studio 2015\Projects\MachineInventoryManager\MachineInventoryManager\bin\roslyn\csc.exe
+c:\users\sooraj.jayathilake\documents\visual studio 2015\Projects\MachineInventoryManager\MachineInventoryManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\sooraj.jayathilake\documents\visual studio 2015\Projects\MachineInventoryManager\MachineInventoryManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\sooraj.jayathilake\documents\visual studio 2015\Projects\MachineInventoryManager\MachineInventoryManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\sooraj.jayathilake\documents\visual studio 2015\Projects\MachineInventoryManager\MachineInventoryManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\sooraj.jayathilake\documents\visual studio 2015\Projects\MachineInventoryManager\MachineInventoryManager\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\sooraj.jayathilake\documents\visual studio 2015\Projects\MachineInventoryManager\MachineInventoryManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\sooraj.jayathilake\documents\visual studio 2015\Projects\MachineInventoryManager\MachineInventoryManager\bin\roslyn\System.Collections.Immutable.dll
+c:\users\sooraj.jayathilake\documents\visual studio 2015\Projects\MachineInventoryManager\MachineInventoryManager\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\sooraj.jayathilake\documents\visual studio 2015\Projects\MachineInventoryManager\MachineInventoryManager\bin\roslyn\vbc.exe
+c:\users\sooraj.jayathilake\documents\visual studio 2015\Projects\MachineInventoryManager\MachineInventoryManager\bin\roslyn\VBCSCompiler.exe
+c:\users\sooraj.jayathilake\documents\visual studio 2015\Projects\MachineInventoryManager\MachineInventoryManager\bin\roslyn\VBCSCompiler.exe.config
+c:\users\sooraj.jayathilake\documents\visual studio 2015\Projects\MachineInventoryManager\MachineInventoryManager\bin\MachineInventoryManager.dll
+c:\users\sooraj.jayathilake\documents\visual studio 2015\Projects\MachineInventoryManager\MachineInventoryManager\bin\MachineInventoryManager.pdb
+c:\users\sooraj.jayathilake\documents\visual studio 2015\Projects\MachineInventoryManager\MachineInventoryManager\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\sooraj.jayathilake\documents\visual studio 2015\Projects\MachineInventoryManager\MachineInventoryManager\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\sooraj.jayathilake\documents\visual studio 2015\Projects\MachineInventoryManager\MachineInventoryManager\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\sooraj.jayathilake\documents\visual studio 2015\Projects\MachineInventoryManager\MachineInventoryManager\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\sooraj.jayathilake\documents\visual studio 2015\Projects\MachineInventoryManager\MachineInventoryManager\bin\Microsoft.AI.Web.dll
+c:\users\sooraj.jayathilake\documents\visual studio 2015\Projects\MachineInventoryManager\MachineInventoryManager\bin\Microsoft.AI.WindowsServer.dll
+c:\users\sooraj.jayathilake\documents\visual studio 2015\Projects\MachineInventoryManager\MachineInventoryManager\bin\Microsoft.ApplicationInsights.dll
+c:\users\sooraj.jayathilake\documents\visual studio 2015\Projects\MachineInventoryManager\MachineInventoryManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\sooraj.jayathilake\documents\visual studio 2015\Projects\MachineInventoryManager\MachineInventoryManager\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\sooraj.jayathilake\documents\visual studio 2015\Projects\MachineInventoryManager\MachineInventoryManager\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\sooraj.jayathilake\documents\visual studio 2015\Projects\MachineInventoryManager\MachineInventoryManager\bin\Microsoft.AI.Web.xml
+c:\users\sooraj.jayathilake\documents\visual studio 2015\Projects\MachineInventoryManager\MachineInventoryManager\bin\Microsoft.AI.WindowsServer.xml
+c:\users\sooraj.jayathilake\documents\visual studio 2015\Projects\MachineInventoryManager\MachineInventoryManager\bin\Microsoft.ApplicationInsights.xml
+c:\users\sooraj.jayathilake\documents\visual studio 2015\Projects\MachineInventoryManager\MachineInventoryManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\sooraj.jayathilake\documents\visual studio 2015\Projects\MachineInventoryManager\MachineInventoryManager\obj\Debug\MachineInventoryManager.csprojResolveAssemblyReference.cache
+c:\users\sooraj.jayathilake\documents\visual studio 2015\Projects\MachineInventoryManager\MachineInventoryManager\obj\Debug\MachineInventoryManager.dll
+c:\users\sooraj.jayathilake\documents\visual studio 2015\Projects\MachineInventoryManager\MachineInventoryManager\obj\Debug\MachineInventoryManager.pdb
+E:\QMS\template\MachineInventoryManager\MachineInventoryManager\bin\roslyn\csc.exe
+E:\QMS\template\MachineInventoryManager\MachineInventoryManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\QMS\template\MachineInventoryManager\MachineInventoryManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\QMS\template\MachineInventoryManager\MachineInventoryManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\QMS\template\MachineInventoryManager\MachineInventoryManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\QMS\template\MachineInventoryManager\MachineInventoryManager\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\QMS\template\MachineInventoryManager\MachineInventoryManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\QMS\template\MachineInventoryManager\MachineInventoryManager\bin\roslyn\System.Collections.Immutable.dll
+E:\QMS\template\MachineInventoryManager\MachineInventoryManager\bin\roslyn\System.Reflection.Metadata.dll
+E:\QMS\template\MachineInventoryManager\MachineInventoryManager\bin\roslyn\vbc.exe
+E:\QMS\template\MachineInventoryManager\MachineInventoryManager\bin\roslyn\VBCSCompiler.exe
+E:\QMS\template\MachineInventoryManager\MachineInventoryManager\bin\roslyn\VBCSCompiler.exe.config
+E:\QMS\template\MachineInventoryManager\MachineInventoryManager\bin\MachineInventoryManager.dll.config
+E:\QMS\template\MachineInventoryManager\MachineInventoryManager\bin\MachineInventoryManager.dll
+E:\QMS\template\MachineInventoryManager\MachineInventoryManager\bin\MachineInventoryManager.pdb
+E:\QMS\template\MachineInventoryManager\MachineInventoryManager\bin\Microsoft.AI.Agent.Intercept.dll
+E:\QMS\template\MachineInventoryManager\MachineInventoryManager\bin\Microsoft.AI.DependencyCollector.dll
+E:\QMS\template\MachineInventoryManager\MachineInventoryManager\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\QMS\template\MachineInventoryManager\MachineInventoryManager\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\QMS\template\MachineInventoryManager\MachineInventoryManager\bin\Microsoft.AI.Web.dll
+E:\QMS\template\MachineInventoryManager\MachineInventoryManager\bin\Microsoft.AI.WindowsServer.dll
+E:\QMS\template\MachineInventoryManager\MachineInventoryManager\bin\Microsoft.ApplicationInsights.dll
+E:\QMS\template\MachineInventoryManager\MachineInventoryManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\QMS\template\MachineInventoryManager\MachineInventoryManager\bin\Microsoft.AI.DependencyCollector.xml
+E:\QMS\template\MachineInventoryManager\MachineInventoryManager\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\QMS\template\MachineInventoryManager\MachineInventoryManager\bin\Microsoft.AI.Web.xml
+E:\QMS\template\MachineInventoryManager\MachineInventoryManager\bin\Microsoft.AI.WindowsServer.xml
+E:\QMS\template\MachineInventoryManager\MachineInventoryManager\bin\Microsoft.ApplicationInsights.xml
+E:\QMS\template\MachineInventoryManager\MachineInventoryManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\QMS\template\MachineInventoryManager\MachineInventoryManager\obj\Debug\MachineInventoryManager.csprojResolveAssemblyReference.cache
+E:\QMS\template\MachineInventoryManager\MachineInventoryManager\obj\Debug\MachineInventoryManager.dll
+E:\QMS\template\MachineInventoryManager\MachineInventoryManager\obj\Debug\MachineInventoryManager.pdb
+E:\TimeSheet test\MachineInventoryManager\MachineInventoryManager\bin\roslyn\csc.exe
+E:\TimeSheet test\MachineInventoryManager\MachineInventoryManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\TimeSheet test\MachineInventoryManager\MachineInventoryManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\TimeSheet test\MachineInventoryManager\MachineInventoryManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\TimeSheet test\MachineInventoryManager\MachineInventoryManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\TimeSheet test\MachineInventoryManager\MachineInventoryManager\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\TimeSheet test\MachineInventoryManager\MachineInventoryManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\TimeSheet test\MachineInventoryManager\MachineInventoryManager\bin\roslyn\System.Collections.Immutable.dll
+E:\TimeSheet test\MachineInventoryManager\MachineInventoryManager\bin\roslyn\System.Reflection.Metadata.dll
+E:\TimeSheet test\MachineInventoryManager\MachineInventoryManager\bin\roslyn\vbc.exe
+E:\TimeSheet test\MachineInventoryManager\MachineInventoryManager\bin\roslyn\VBCSCompiler.exe
+E:\TimeSheet test\MachineInventoryManager\MachineInventoryManager\bin\roslyn\VBCSCompiler.exe.config
+E:\TimeSheet test\MachineInventoryManager\MachineInventoryManager\bin\MachineInventoryManager.dll.config
+E:\TimeSheet test\MachineInventoryManager\MachineInventoryManager\bin\MachineInventoryManager.dll
+E:\TimeSheet test\MachineInventoryManager\MachineInventoryManager\bin\MachineInventoryManager.pdb
+E:\TimeSheet test\MachineInventoryManager\MachineInventoryManager\bin\Microsoft.AI.Agent.Intercept.dll
+E:\TimeSheet test\MachineInventoryManager\MachineInventoryManager\bin\Microsoft.AI.DependencyCollector.dll
+E:\TimeSheet test\MachineInventoryManager\MachineInventoryManager\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\TimeSheet test\MachineInventoryManager\MachineInventoryManager\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\TimeSheet test\MachineInventoryManager\MachineInventoryManager\bin\Microsoft.AI.Web.dll
+E:\TimeSheet test\MachineInventoryManager\MachineInventoryManager\bin\Microsoft.AI.WindowsServer.dll
+E:\TimeSheet test\MachineInventoryManager\MachineInventoryManager\bin\Microsoft.ApplicationInsights.dll
+E:\TimeSheet test\MachineInventoryManager\MachineInventoryManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\TimeSheet test\MachineInventoryManager\MachineInventoryManager\bin\Microsoft.AI.DependencyCollector.xml
+E:\TimeSheet test\MachineInventoryManager\MachineInventoryManager\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\TimeSheet test\MachineInventoryManager\MachineInventoryManager\bin\Microsoft.AI.Web.xml
+E:\TimeSheet test\MachineInventoryManager\MachineInventoryManager\bin\Microsoft.AI.WindowsServer.xml
+E:\TimeSheet test\MachineInventoryManager\MachineInventoryManager\bin\Microsoft.ApplicationInsights.xml
+E:\TimeSheet test\MachineInventoryManager\MachineInventoryManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\TimeSheet test\MachineInventoryManager\MachineInventoryManager\obj\Debug\MachineInventoryManager.dll
+E:\TimeSheet test\MachineInventoryManager\MachineInventoryManager\obj\Debug\MachineInventoryManager.pdb
+G:\H one\Backup\template inspinia\MachineInventoryManager\bin\roslyn\csc.exe
+G:\H one\Backup\template inspinia\MachineInventoryManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\H one\Backup\template inspinia\MachineInventoryManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\H one\Backup\template inspinia\MachineInventoryManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\H one\Backup\template inspinia\MachineInventoryManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\H one\Backup\template inspinia\MachineInventoryManager\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\H one\Backup\template inspinia\MachineInventoryManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\H one\Backup\template inspinia\MachineInventoryManager\bin\roslyn\System.Collections.Immutable.dll
+G:\H one\Backup\template inspinia\MachineInventoryManager\bin\roslyn\System.Reflection.Metadata.dll
+G:\H one\Backup\template inspinia\MachineInventoryManager\bin\roslyn\vbc.exe
+G:\H one\Backup\template inspinia\MachineInventoryManager\bin\roslyn\VBCSCompiler.exe
+G:\H one\Backup\template inspinia\MachineInventoryManager\bin\roslyn\VBCSCompiler.exe.config
+G:\H one\Backup\template inspinia\MachineInventoryManager\bin\MachineInventoryManager.dll.config
+G:\H one\Backup\template inspinia\MachineInventoryManager\bin\MachineInventoryManager.dll
+G:\H one\Backup\template inspinia\MachineInventoryManager\bin\MachineInventoryManager.pdb
+G:\H one\Backup\template inspinia\MachineInventoryManager\bin\Microsoft.AI.Agent.Intercept.dll
+G:\H one\Backup\template inspinia\MachineInventoryManager\bin\Microsoft.AI.DependencyCollector.dll
+G:\H one\Backup\template inspinia\MachineInventoryManager\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\H one\Backup\template inspinia\MachineInventoryManager\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\H one\Backup\template inspinia\MachineInventoryManager\bin\Microsoft.AI.Web.dll
+G:\H one\Backup\template inspinia\MachineInventoryManager\bin\Microsoft.AI.WindowsServer.dll
+G:\H one\Backup\template inspinia\MachineInventoryManager\bin\Microsoft.ApplicationInsights.dll
+G:\H one\Backup\template inspinia\MachineInventoryManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\H one\Backup\template inspinia\MachineInventoryManager\bin\Microsoft.AI.DependencyCollector.xml
+G:\H one\Backup\template inspinia\MachineInventoryManager\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\H one\Backup\template inspinia\MachineInventoryManager\bin\Microsoft.AI.Web.xml
+G:\H one\Backup\template inspinia\MachineInventoryManager\bin\Microsoft.AI.WindowsServer.xml
+G:\H one\Backup\template inspinia\MachineInventoryManager\bin\Microsoft.ApplicationInsights.xml
+G:\H one\Backup\template inspinia\MachineInventoryManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\H one\Backup\template inspinia\MachineInventoryManager\obj\Debug\MachineInventoryManager.csprojResolveAssemblyReference.cache
+G:\H one\Backup\template inspinia\MachineInventoryManager\obj\Debug\MachineInventoryManager.dll
+G:\H one\Backup\template inspinia\MachineInventoryManager\obj\Debug\MachineInventoryManager.pdb
