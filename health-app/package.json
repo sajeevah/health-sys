@@ -16,7 +16,7 @@
     "jwt-simple": "^0.5.1",
     "mocha": "^3.4.2",
     "mongodb": "^2.2.25",
-    "mongoose": "^4.9.5",
+    "mongoose": "^5.9.27",
     "mongoose-geojson-schema": "^2.1.2",
     "morgan": "~1.8.1",
     "passport": "^0.3.2",
