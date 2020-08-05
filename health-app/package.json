@@ -18,7 +18,7 @@
     "mongodb": "^2.2.25",
     "mongoose": "^4.9.5",
     "mongoose-geojson-schema": "^2.1.2",
-    "morgan": "~1.8.1",
+    "morgan": "~1.10.0",
     "passport": "^0.3.2",
     "passport-jwt": "^2.2.1",
     "serve-favicon": "~2.4.2",
