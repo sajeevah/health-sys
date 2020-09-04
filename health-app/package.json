@@ -15,7 +15,7 @@
     "jade": "~1.11.0",
     "jwt-simple": "^0.5.1",
     "mocha": "^3.4.2",
-    "mongodb": "^2.2.25",
+    "mongodb": "^3.6.1",
     "mongoose": "^4.9.5",
     "mongoose-geojson-schema": "^2.1.2",
     "morgan": "~1.10.0",
